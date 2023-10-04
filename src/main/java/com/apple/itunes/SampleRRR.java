@@ -1,4 +1,4 @@
-package com.apple.developer;
+package com.apple.itunes;
 
 public class SampleRRR {
 	public int add(int a, int b) {

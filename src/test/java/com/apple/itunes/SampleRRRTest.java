@@ -1,7 +1,9 @@
-package com.apple.developer;
+package com.apple.itunes;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
+import com.apple.itunes.SampleRRR;
 
 public class SampleRRRTest {
 
