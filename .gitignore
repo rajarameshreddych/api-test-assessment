@@ -1,0 +1,10 @@
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Maven build artifacts
+/target/
+
+# Eclipse settings
+.settings/
