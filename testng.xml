@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite">
-  <test thread-count="5" name="Test">
+<suite name="Search and Lookup API tests">
+  <test thread-count="5" name="Search and Lookup API tests">
     <classes>
-      <class name="com.apple.developer.SampleRRRTest"/>
+      <class name="com.apple.itunestests.SearchApiTests"/>
+      <class name="com.apple.itunestests.LookupApiTests"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test>
+</suite> 
