@@ -41,6 +41,7 @@ mvn –version
 Open Command 
 Navigate to the project folder(the folder where you see pom.xml) 
 Execute below command 
+
 mvn test
 
 You will see the required packages will be downloaded automatically and tests will run.
